@@ -1,0 +1,12 @@
+{
+  "name": "tmp-test",
+  "version": "1.0.0",
+  "description": "Builder for Node.js",
+  "scripts": {},
+  "author": "Fady Abdelmalik <fmakram1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "path-to-regexp": "^6.2.0"
+  }
+}
