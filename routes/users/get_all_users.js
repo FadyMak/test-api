@@ -1,5 +1,5 @@
 const glob = require("glob");
-const xx = require("path-to-regexp");
+const regexp = require("path-to-regexp");
 
 module.exports = {
   method: "GET",
